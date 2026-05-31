@@ -1,16 +1,16 @@
 {
-  "builtAt": "2026-05-30T19:44:55.352083+00:00",
+  "builtAt": "2026-05-31T07:19:14.806744+00:00",
   "rawDir": "/home/runner/work/Analiticgress/Analiticgress/cooker/raw",
-  "filesRead": 49,
-  "recordsRead": 476739,
-  "recordsUnique": 475620,
-  "duplicatesSkipped": 1119,
-  "agents": 693,
-  "portals": 44489,
-  "cookedEvents": 474204,
+  "filesRead": 50,
+  "recordsRead": 483459,
+  "recordsUnique": 482339,
+  "duplicatesSkipped": 1120,
+  "agents": 699,
+  "portals": 44793,
+  "cookedEvents": 480922,
   "cookedChunks": 11,
-  "cookedRawJsonBytes": 160716043,
-  "cookedCompressedBase64Bytes": 31486200,
+  "cookedRawJsonBytes": 162902516,
+  "cookedCompressedBase64Bytes": 31981016,
   "scalableDays": 45,
   "scalableSummaries": {
     "global": {
@@ -25,28 +25,28 @@
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 879875,
-      "compressedBase64Bytes": 217876
+      "rawJsonBytes": 886666,
+      "compressedBase64Bytes": 219272
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 8505222,
-      "compressedBase64Bytes": 2365704
+      "rawJsonBytes": 8580037,
+      "compressedBase64Bytes": 2386048
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 12014,
-      "compressedBase64Bytes": 4036
+      "rawJsonBytes": 11997,
+      "compressedBase64Bytes": 4004
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
-      "rawJsonBytes": 9170,
-      "compressedBase64Bytes": 2604
+      "rawJsonBytes": 9162,
+      "compressedBase64Bytes": 2596
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1131675,
-      "compressedBase64Bytes": 291172
+      "rawJsonBytes": 1151854,
+      "compressedBase64Bytes": 296096
     }
   },
   "schema": "bot-references-v1",
