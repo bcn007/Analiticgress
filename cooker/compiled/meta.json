@@ -1,15 +1,15 @@
 {
   "schema": 2,
-  "builtAt": "2026-06-04T05:26:01.868567+00:00",
+  "builtAt": "2026-06-04T14:17:20.410527+00:00",
   "generator": "python-static-cooker",
   "timezone": "Europe/Madrid",
   "dayKeyAlgo": "Europe/Madrid local date",
   "sessionGapMs": 14400000,
   "sidAlgo": "sha1-10",
   "openSessionSidAlgo": "sha1-10-agent-start-end",
-  "eventCount": 805090,
-  "sourceFiles": 97,
-  "recordsRead": 808252,
+  "eventCount": 811609,
+  "sourceFiles": 98,
+  "recordsRead": 814772,
   "firstTs": 1776354382830,
   "lastTs": 1780523919813,
   "dayCount": 49,
@@ -443,44 +443,44 @@
       "eventCount": 23671,
       "firstTs": 1780351216417,
       "lastTs": 1780437562865,
-      "rawJsonBytes": 8406548,
-      "compressedBase64Bytes": 1680024
+      "rawJsonBytes": 8410288,
+      "compressedBase64Bytes": 1680080
     },
     {
       "day": "2026-06-03",
       "path": "events/2026/06/2026-06-03.json.gz.b64.txt",
-      "eventCount": 10859,
+      "eventCount": 17378,
       "firstTs": 1780437616827,
       "lastTs": 1780523919813,
-      "rawJsonBytes": 3795331,
-      "compressedBase64Bytes": 758672
+      "rawJsonBytes": 6214954,
+      "compressedBase64Bytes": 1250680
     }
   ],
   "summaries": {
     "global": {
       "path": "summaries/global.json.gz.b64.txt",
       "rawJsonBytes": 392,
-      "compressedBase64Bytes": 368
+      "compressedBase64Bytes": 372
     },
     "months": {
       "path": "summaries/months.json.gz.b64.txt",
-      "rawJsonBytes": 750,
+      "rawJsonBytes": 752,
       "compressedBase64Bytes": 460
     },
     "agents": {
       "path": "summaries/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1173757,
-      "compressedBase64Bytes": 300524
+      "rawJsonBytes": 1176594,
+      "compressedBase64Bytes": 301536
     },
     "portals": {
       "path": "summaries/portals.json.gz.b64.txt",
-      "rawJsonBytes": 13983263,
-      "compressedBase64Bytes": 3954960
+      "rawJsonBytes": 14044355,
+      "compressedBase64Bytes": 3971780
     },
     "rankings": {
       "path": "summaries/rankings.json.gz.b64.txt",
-      "rawJsonBytes": 12200,
-      "compressedBase64Bytes": 4176
+      "rawJsonBytes": 12189,
+      "compressedBase64Bytes": 4180
     },
     "hallOfFame": {
       "path": "summaries/hall_of_fame.json.gz.b64.txt",
@@ -489,8 +489,8 @@
     },
     "agentIndex": {
       "path": "indexes/agents.json.gz.b64.txt",
-      "rawJsonBytes": 1886315,
-      "compressedBase64Bytes": 486496
+      "rawJsonBytes": 1900414,
+      "compressedBase64Bytes": 490012
     }
   },
   "heatmap": {
